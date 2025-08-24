@@ -1,0 +1,3 @@
+Often, people need to analyze text quickly for research, social media posts, or documents.
+The problem is that many solutions rely on online APIs, which can be expensive, slow, or risky for private data.
+I wanted a solution that runs locally, is free, and still provides meaningful insights.

@@ -1,0 +1,14 @@
+{
+  "original_text": "Artificial Intelligence is transforming industries by automating tasks,\n    improving decision-making, and enabling new capabilities. However, it also raises\n    ethical concerns such as bias, job displacement, and accountability.",
+  "summary": "artificial intelligence is transforming industries by automating tasks, improving decision-making, and enabling new capabilities . however, it raises ethical concerns such as bias, job displacement, and accountability .",
+  "language": "en",
+  "sentiment": {
+    "polarity": -0.0659090909090909,
+    "subjectivity": 0.6386363636363637
+  },
+  "style_metrics": {
+    "flesch_reading_ease": -19.93416666666664,
+    "word_count": 27,
+    "char_count": 230
+  }
+}

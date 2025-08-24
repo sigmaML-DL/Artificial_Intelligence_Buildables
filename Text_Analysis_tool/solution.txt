@@ -1,0 +1,9 @@
+My solution is a local text analysis tool.
+Users can either paste text directly or upload a text file, and the tool performs multiple analyses in one click.
+It includes:
+
+Summarization using DistilBART and T5-small models
+
+Tokenization comparison (GPT-2 vs BERT)
+
+Optional features: language detection and sentiment analysis

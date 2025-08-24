@@ -1,0 +1,6 @@
+transformers
+torch
+textblob
+langdetect
+textstat
+streamlit 
